@@ -268,10 +268,13 @@ main {
     width: 100%;
     height: 75vh;
     transform: translate(-100%, 0);
+    justify-content: stretch;
     font-size: 2rem; }
   .menu-branding {
     width: 100%;
     height: 25vh;
+    padding-top: 10px;
+    padding-bottom: 10px;
     transform: translate(100%, 0); }
     .menu-branding .portrait {
       width: 150px;
